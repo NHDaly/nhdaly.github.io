@@ -22,7 +22,12 @@ politics—whatever it takes.
 
 
 ## Publications
-**Presented at JuliaCon 2018** about my package [ApplicationBuilder.jl](https://github.com/NHDaly/ApplicationBuilder.jl): _"Building Julia Apps and So Can You!: Compiling and distributing desktop applications written in Julia"_. ([Youtube link]())
+
+<div style="float:right; padding:2px;">
+<iframe width="200" height="110" src="https://www.youtube.com/embed/kSp6d3qSb3I?start=323" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
+<br>**Presented at JuliaCon 2018** about my package [ApplicationBuilder.jl](https://github.com/NHDaly/ApplicationBuilder.jl): _"Building Julia Apps and So Can You!: Compiling and distributing desktop applications written in Julia"_. ([Youtube link](https://youtu.be/kSp6d3qSb3I?t=5m23s))
 
 
 
@@ -56,9 +61,9 @@ learners out there, I really love the audio lessons on [chinesepod.com](http://c
 <h2 style="line-height:15pt; padding-top: 10pt;">Archive
 <br><small>Some things from a while back...</small></h2>
 
-<div style="float:right;">
+<div style="float:right; padding:2px;">
 <a href="https://assetstore.unity.com/packages/tools/random-from-distributions-statistical-distributions-random-numbe-15873"><img
-style="border: none; height: 105px; width: 140px; "
+style="border: none; height: 105px; width: 140px;"
 src="https://d2ujflorbtfzji.cloudfront.net/key-image/e8573fe5-66cd-4085-8ccd-b58700f3abfa.jpg"
 alt="Random From Distributions Unity Package"></a>
 <br><div style="text-align: center;">(March 2014)</div>
