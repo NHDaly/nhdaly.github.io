@@ -199,12 +199,18 @@
   }
 
   h2 {
-    margin-top: 100px;
-    padding-top: 60px;
-    margin-bottom: 5px;
-    border-top: 2px solid #ecf0f1;
+    margin-top: 60px;
 
-    @include relative-font-size(1.25);
+    small {
+      font-size: 16px;
+      color: gray;
+    }
+  }
+
+  div.seperator {
+    margin-top: 100px;
+    padding-bottom: 30px;
+    border-top: 2px solid #ecf0f1;
   }
 }
 

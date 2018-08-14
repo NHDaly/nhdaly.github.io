@@ -17,6 +17,15 @@ I like solving problems, and I'm good at it, and I want to apply that towards
 tackling the climate crisis: energy, the grid, transportation,
 politics—whatever it takes.
 
+
+<div class="seperator"> </div>
+
+
+## Publications
+**Presented at JuliaCon 2018** about my package [ApplicationBuilder.jl](https://github.com/NHDaly/ApplicationBuilder.jl): _"Building Julia Apps and So Can You!: Compiling and distributing desktop applications written in Julia"_. ([Youtube link]())
+
+
+
 ## Current Interests
 **Julia lang**  {% include icon-julia-logo-three-balls.html %} I'm super excited about the future of the [Julia Language](https://julialang.org)! I attended [JuliaCon 2017](http://juliacon.org/2017/) in Berkeley, and am looking forward to [JuliaCon 2018](http://juliacon.org/2018/) in London!
 
@@ -40,3 +49,26 @@ love the challenge and the chance to learn more about Chinese culture! For other
 learners out there, I really love the audio lessons on [chinesepod.com](http://chinesepod.com)!
 
 **Making Games** I'm making games! Check out my games page: [nhdalyMadeThis](/MadeThis.html)
+
+
+
+
+<h2 style="line-height:15pt; padding-top: 10pt;">Archive
+<br><small>Some things from a while back...</small></h2>
+
+<div style="float:right;">
+<a href="https://assetstore.unity.com/packages/tools/random-from-distributions-statistical-distributions-random-numbe-15873"><img
+style="border: none; height: 105px; width: 140px; "
+src="https://d2ujflorbtfzji.cloudfront.net/key-image/e8573fe5-66cd-4085-8ccd-b58700f3abfa.jpg"
+alt="Random From Distributions Unity Package"></a>
+<br><div style="text-align: center;">(March 2014)</div>
+</div>
+
+**Random From Distributions**  I made this small Unity package, which
+provides functions for generating random numbers from various statistical
+distributions (normal, linear, exponential, etc). I've been surprised and
+pleased with how much people like it! 😊
+<br>Unity Store link: [https://www.assetstore.unity3d.com/#/content/15873](https://www.assetstore.unity3d.com/#/content/15873)
+
+**Other old stuff!** See the portfolio page from my old University of Michigan site:
+<br>[http://www-personal.umich.edu/~nathdaly/Site/Portfolio.html](http://www-personal.umich.edu/~nathdaly/Site/Portfolio.html)
