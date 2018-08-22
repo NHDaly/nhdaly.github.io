@@ -77,3 +77,7 @@ pleased with how much people like it! 😊
 
 **Other old stuff!** See the portfolio page from my old University of Michigan site:
 <br>[http://www-personal.umich.edu/~nathdaly/Site/Portfolio.html](http://www-personal.umich.edu/~nathdaly/Site/Portfolio.html)
+
+
+## Resume
+You can download my resume: [here]({{ "/assets/NHDaly-SWE-Resume.pdf" | absolute_url }})
