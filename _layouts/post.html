@@ -6,13 +6,18 @@
   <body>
 
     {%- include header.html -%}
+    <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
-    <!--- Undo the indentation --->
-  	<div class="blog-post text-container">
-  		<div class="post-content">
-        {{ content }}
+      <!--- Undo the indentation --->
+      <div class="blog-post text-container">
+        <div class="post-content e-content" itemprop="articleBody">
+          {{ content }}
+        </div>
       </div>
-    </div>
+
+      <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+
+    </article>
 
     {%- include footer.html -%}
 
