@@ -4,6 +4,8 @@ title: Writing a simple SQL interpreter in Julia
 index_description: >
   I'm finally setting up my blog! I have a few different posts I've put together over the years and I'll try to get them all up here now. :)
   But first, instead, here's one I wrote this week!
+post_description: >
+  <i>This post was generated from a jupyter notebook. You can download it here: <a href="https://github.com/NHDaly/SimpleSQL.jl/blob/master/SimpleSQL-example.ipynb">SimpleSQL-example.ipynb</a></i>
 ---
 
 <!DOCTYPE html>
@@ -11797,8 +11799,8 @@ div#notebook {
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <p>The code is all here, in this github repo, in a package called <code>SimpleSQL</code>:
-<a href="https://github.com/NHDaly/SimpleSQL">https://github.com/NHDaly/SimpleSQL</a>
-<br>It all fits in just this one file: <a href="https://github.com/NHDaly/SimpleSQL/blob/master/src/SimpleSQL.jl">src/SimpleSQL.jl</a></p>
+<a href="https://github.com/NHDaly/SimpleSQL.jl">https://github.com/NHDaly/SimpleSQL.jl</a>
+<br>It all fits in just this one file: <a href="https://github.com/NHDaly/SimpleSQL.jl/blob/master/src/SimpleSQL.jl">src/SimpleSQL.jl</a></p>
 
 </div>
 </div>
@@ -12037,7 +12039,7 @@ shape::String
 <span class="nd">@SQL</span> <span class="k">begin</span>
     <span class="nd">@SELECT</span> <span class="n">mean</span><span class="p">(</span><span class="n">density</span><span class="p">),</span> <span class="n">median</span><span class="p">(</span><span class="n">density</span><span class="p">),</span> <span class="n">round</span><span class="p">(</span><span class="n">sum</span><span class="p">(</span><span class="n">mass</span><span class="p">)),</span> <span class="n">type_of_object</span>
     <span class="nd">@FROM</span> <span class="n">solar_system_objects</span>
-    <span class="nd">@WHERE</span> <span class="p">(</span><span class="err">@</span><span class="o">.</span> <span class="o">!</span><span class="n">isnan</span><span class="p">(</span><span class="n">mass</span><span class="p">))</span>  <span class="c"># some elements are missing mass</span>
+    <span class="nd">@WHERE</span> <span class="p">(</span><span class="nd">@.</span> <span class="o">!</span><span class="n">isnan</span><span class="p">(</span><span class="n">mass</span><span class="p">))</span>  <span class="c"># some elements are missing mass</span>
     <span class="nd">@GROUP</span> <span class="nd">@BY</span> <span class="n">type_of_object</span>
 <span class="k">end</span>
 </pre></div>
