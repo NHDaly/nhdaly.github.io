@@ -1,0 +1,25 @@
+---
+layout: page
+title: Blog
+header_title: Blog posts
+order: 2
+---
+<style>
+.post-description {
+  display: block;
+  margin-left: 20px;
+  line-height: 100%;
+  width: 75%;
+}
+</style>
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      {% if post.index_description %}
+        <p class="post-description"><small><i>{{ post.index_description }}</i></small></p>
+      {% endif %}
+    </li>
+  {% endfor %}
+</ul>

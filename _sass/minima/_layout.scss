@@ -282,6 +282,10 @@
       @include relative-font-size(1.125);
     }
   }
+
+  code.language-\{.julia\} {
+    color: red;
+  }
 }
 
 .google-docs-gview-container {
