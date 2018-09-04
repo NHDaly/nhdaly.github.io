@@ -6,6 +6,7 @@
   <body>
 
     {%- include header.html -%}
+
 <main class="page-content" aria-label="Content">
   <div class="wrapper" style="max-width: calc(900px - (30px * 2));">
     <header class="post-header">
@@ -23,14 +24,16 @@
       <p style="color: #888">{{ page.post_description }}</p>
     {%- endif -%}
   </div>
-</main>
 
     <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
       <!--- Undo the indentation --->
       <div class="blog-post text-container">
         <div class="post-content e-content" itemprop="articleBody">
-          {{ content }}
+          <div class="JUPYTER-NOTEBOOK-EXPORT">
+            {%- include ipynb_export_styling.html -%}
+            {{ content }}
+          </div>
         </div>
       </div>
 
@@ -40,6 +43,7 @@
 
     {%- include footer.html -%}
 
-  </body>
+</main>
+</body>
 
 </html>
