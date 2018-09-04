@@ -25,6 +25,8 @@ github_username:  nhdaly
 stackoverflow_userid: 751061
 stackoverflow_username:  nhdaly
 
+google_analytics: UA-125195528-1
+
 # Build settings
 markdown: kramdown
 theme: minima
