@@ -28,9 +28,13 @@ order: 2
 
 <h3 id="Interact">Interact!</h3>
 Since most of my blog posts come originally from Jupyter Notebooks, you can
-interact with them and play with them yourself!<br><br>
+interact with them and play with them yourself!
 
-They're all available in the <a href="/notebooks">notebooks</a> directory, but
-you can run an interactive notebook through MyBinder, by clicking here!:<br>
+They're all available in the [notebooks](/notebooks) directory, but
+you can run an interactive notebook through MyBinder, by clicking here!:
 
 <a href="https://mybinder.org/v2/gh/nhdaly/nhdaly.github.io/master?filepath=notebooks"><img src="https://mybinder.org/badge.svg"/></a>
+
+<br>Note that currently MyBinder only supports julia v0.6, so the julia
+notebooks may not work. (I'm working on a fix for that, here:
+  [https://github.com/jupyter/repo2docker/pull/393](https://github.com/jupyter/repo2docker/pull/393))
