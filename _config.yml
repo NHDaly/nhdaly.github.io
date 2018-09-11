@@ -35,6 +35,12 @@ plugins:
 include: [".well-known"]
 
 
+# RSS Feed Settings (jekyll-feed plugin)
+# TODO: This is only valid after jekyll-feed 0.11.0 is deployed.
+# feed:
+#   categories:
+#     - julia
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
