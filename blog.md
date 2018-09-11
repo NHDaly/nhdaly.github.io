@@ -17,24 +17,37 @@ order: 2
   {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
+      <p class="post-description"><small>
       {% if post.index_description %}
-        <p class="post-description"><small><i>{{ post.index_description }}</i></small></p>
+        <i>{{ post.index_description }}</i>
       {% endif %}
+      {%- if post.tags -%}
+        <br><span class="post-tags">
+        {% for tag in post.tags %}
+          {%- assign comma = ', ' -%}
+          {%- if forloop.last -%}
+            {%- assign comma = '' -%}
+          {%- endif -%}
+          <a href="/tag/{{ tag }}"><nobr>{{ tag }}</nobr></a>{{ comma }}
+        {% endfor %}
+        </span>
+      {%- endif -%}
+      </small></p>
     </li>
   {% endfor %}
 </ul>
 
 <div class="seperator"> </div>
 
-<h3 id="Interact">Interact!</h3>
+<h3 id="Interactive posts"><i>Interactive posts!</i></h3>
 Since most of my blog posts come originally from Jupyter Notebooks, you can
-interact with them and play with them yourself!
+run all the code, and play with them yourself!
 
-They're all available in the [notebooks](/notebooks) directory, but
-you can run an interactive notebook through MyBinder, by clicking here!:
+They're all available for download in the [notebooks](/notebooks) directory, but
+you can run an interactive notebook through MyBinder, by clicking this button!:
 
-<a href="https://mybinder.org/v2/gh/nhdaly/nhdaly.github.io/master?filepath=notebooks"><img src="https://mybinder.org/badge.svg"/></a>
+<p align="center"><a href="https://mybinder.org/v2/gh/nhdaly/nhdaly.github.io/master?filepath=notebooks"><img src="https://mybinder.org/badge.svg"/></a></p>
 
-<br>Note that currently MyBinder only supports julia v0.6, so the julia
+<br>(Note, though, that currently MyBinder only supports julia v0.6, so the julia
 notebooks may not work. (I'm working on a fix for that, here:
-  [https://github.com/jupyter/repo2docker/pull/393](https://github.com/jupyter/repo2docker/pull/393))
+  [https://github.com/jupyter/repo2docker/pull/393](https://github.com/jupyter/repo2docker/pull/393)))

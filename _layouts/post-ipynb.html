@@ -18,6 +18,18 @@
         </time>
         {%- if page.author -%}
           • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
+        {%- endif -%}
+        {%- if page.tags -%}
+          {% assign ttags = page.tags | join:', ' %}
+          <br><span class="post-tags">
+            {% for tag in page.tags %}
+              {%- assign comma = ', ' -%}
+              {%- if forloop.last -%}
+                {%- assign comma = '' -%}
+              {%- endif -%}
+              <a href="/tag/{{ tag }}"><nobr>{{ tag }}</nobr></a>{{ comma }}
+            {% endfor %}
+          </span>
         {%- endif -%}</p>
     </header>
     {%- if page.post_description -%}

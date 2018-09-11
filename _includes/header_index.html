@@ -1,7 +1,8 @@
 <header class="site-header" role="banner">
 
   <div class="wrapper">
-    {% assign sorted_pages = site.pages | sort:"order" %}
+    <!-- Order the links to pages by order:, skipping any `order: -1` -->
+    {% assign sorted_pages = site.pages | sort:"order" | uniq:"order" %}
     {% assign default_paths = sorted_pages | map: "path" %}
     {% assign page_paths = site.header_pages | default: default_paths %}
 
