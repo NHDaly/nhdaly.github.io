@@ -43,11 +43,11 @@ order: 2
 Since most of my blog posts come originally from Jupyter Notebooks, you can
 run all the code, and play with them yourself!
 
-They're all available for download in the [notebooks](/notebooks) directory, but
+They're all available for download in the [notebooks](/notebooks) directory, and
 you can run an interactive notebook through MyBinder, by clicking this button!:
 
 <p align="center"><a href="https://mybinder.org/v2/gh/nhdaly/nhdaly.github.io/master?filepath=notebooks"><img src="https://mybinder.org/badge.svg"/></a></p>
 
-<br>(Note, though, that currently MyBinder only supports julia v0.6, so the julia
-notebooks may not work. (I'm working on a fix for that, here:
-  [https://github.com/jupyter/repo2docker/pull/393](https://github.com/jupyter/repo2docker/pull/393)))
+<br>(The above notebooks run in `Julia 0.7`. I updated the MyBinder tool to add
+support for `0.7` and for specifying any julia version in this PR!:
+[https://github.com/jupyter/repo2docker/pull/393](https://github.com/jupyter/repo2docker/pull/393)))

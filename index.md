@@ -6,8 +6,8 @@ order: 1
 
 Hi! I'm Nathan Daly, a software engineer, and sometimes an actor, living in
 Providence, RI. I worked at Google for 3 years, mostly on the google.com search
-engine. After that, I co-founded a startup that provides recruiting and
-training for solar panel installers.
+engine. After that, I co-founded a startup that provides recruiting and training
+for solar panel installers.
 
 A fun fact about me is: I'm [terrified](https://xkcd.com/1732/)
 [about](https://en.wikipedia.org/wiki/IPCC_Fifth_Assessment_Report#Projections)
