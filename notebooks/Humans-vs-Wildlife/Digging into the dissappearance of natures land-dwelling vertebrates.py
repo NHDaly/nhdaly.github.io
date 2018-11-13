@@ -3,7 +3,7 @@
 
 # # Digging into the dissappearance of nature's land-dwelling vertebrates
 # 
-# During one of my many re-reads of the *amazing* (seriously, ***amazing*** -- I cannot recommend it enough!) essay, ["What can a technologist do about climate change"](http://worrydream.com/ClimateChange/), by Brett Victor, I came across [this](http://worrydream.com/ClimateChange/#coda-other) incredible, provacative, and upsetting graphic:
+# During one of my many re-reads of the *amazing* (seriously, ***amazing*** -- I cannot recommend it enough!) essay, ["What can a technologist do about climate change"](http://worrydream.com/ClimateChange/), by Bret Victor, I came across [this](http://worrydream.com/ClimateChange/#coda-other) incredible, provacative, and upsetting graphic:
 # <img src="WorryDreamVertebratesScreenShot.png" style="width: 500px;"/>
 # 
 # This graph shows another example of how over the last 150 years or so, humans have come to dominate the earth. Like many other hockey stick graphs we've seen, the exponential growth of our impact is incredible.
@@ -16,7 +16,7 @@
 # In this post, I dig into the source of the data for the above graph, and find out the answers to those questions!
 
 # -----------
-# Brett Victor lists the source for the above plot as [this 1998 TED talk from Paul MacCready](https://www.ted.com/talks/paul_maccready_on_nature_vs_humans?language=en). The graph in MacCready's talk is the same as the plot from the WorryDream essay ***(TODO: include the plot from the talk?)***, but unfortunately doesn't provide any more detail. Fortunately, through some internet searching, I was able to find a more detailed version of this plot in page 230 of a 2004 chapter MacCready wrote for "The Hydrogen Energy Transition", titled "The Case for Battery Electric Vehicles" ([tGoogle Books link to page 230](https://books.google.com/books?id=EOasCtXvbOEC&lpg=PA227&ots=JQu1V86pig&dq=MacCready%2C%20Paul%2C%202004%2C%20%22The%20Case%20for%20Battery%20Electric%20Vehicles.%22&lr&pg=PA230#v=onepage&q&f=false)).
+# Bret Victor lists the source for the above plot as [this 1998 TED talk from Paul MacCready](https://www.ted.com/talks/paul_maccready_on_nature_vs_humans?language=en). The graph in MacCready's talk is the same as the plot from the WorryDream essay ***(TODO: include the plot from the talk?)***, but unfortunately doesn't provide any more detail. Fortunately, through some internet searching, I was able to find a more detailed version of this plot in page 230 of a 2004 chapter MacCready wrote for "The Hydrogen Energy Transition", titled "The Case for Battery Electric Vehicles" ([tGoogle Books link to page 230](https://books.google.com/books?id=EOasCtXvbOEC&lpg=PA227&ots=JQu1V86pig&dq=MacCready%2C%20Paul%2C%202004%2C%20%22The%20Case%20for%20Battery%20Electric%20Vehicles.%22&lr&pg=PA230#v=onepage&q&f=false)).
 # 
 # Here is the graph cropped out of that page:
 # <img src="humans_vs_wildlife_graph.png" alt="MacCready, Paul, 2004, 'The Case for Battery Electric Vehicles.' In Daniel Sperling and James Cannon, eds., The Hydrogen Energy Transition New York: Academic Press, pp. 227-33" style="width: 500px;">MacCready, Paul, 2004, 'The Case for Battery Electric Vehicles.' In Daniel Sperling and James Cannon, eds., The Hydrogen Energy Transition New York: Academic Press, pp. 227-33</img>
