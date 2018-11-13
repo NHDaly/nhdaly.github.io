@@ -35,7 +35,7 @@ politics—whatever it takes.
 **Julia lang**  {% include icon-julia-logo-three-balls.html %} I'm super excited about the future of the [Julia Language](https://julialang.org)! I attended [JuliaCon 2017](http://juliacon.org/2017/) in Berkeley, and am looking forward to [JuliaCon 2018](http://juliacon.org/2018/) in London!
 
 It was actually the essay I linked above,
-[worrydream.com/ClimateChange](http://worrydream.com/ClimateChange) by Brett Victor,
+[worrydream.com/ClimateChange](http://worrydream.com/ClimateChange) by Bret Victor,
 that first introduced me to Julia and motivated me to contribute! Since then,
 I've found an incredibly inviting and intelligent community, and an exciting
 language for numerical computing, machine learning, and more!
