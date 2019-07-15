@@ -64,7 +64,7 @@ learners out there, I really love the audio lessons on [chinesepod.com](http://c
 <div style="float:right; padding:2px;">
 <a href="https://assetstore.unity.com/packages/tools/random-from-distributions-statistical-distributions-random-numbe-15873"><img
 style="border: none; height: 105px; width: 140px;"
-src="https://d2ujflorbtfzji.cloudfront.net/key-image/e8573fe5-66cd-4085-8ccd-b58700f3abfa.jpg"
+src="/assets/images/unity-random-from-distributions-screenshot.jpg"
 alt="Random From Distributions Unity Package"></a>
 <br><div style="text-align: center;">(March 2014)</div>
 </div>
