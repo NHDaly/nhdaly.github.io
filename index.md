@@ -27,7 +27,8 @@ politics—whatever it takes.
 <iframe width="200" height="110" src="https://www.youtube.com/embed/JCFej--XER0?start=181" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-<br>**JuliaCon 2019 presentation:** _"If Runtime isn't Funtime: Controlling Compile-time Execution"_, reflecting some of my work at [RelationalAI](http://relational.ai). ([Youtube](https://www.youtube.com/watch?v=JCFej--XER0), [slides](https://github.com/NHDaly/juliaCon2019-If_Runtime_isn-t_Funtime-Slides)).
+### JuliaCon 2019: _"If Runtime isn't Funtime: Controlling Compile-time Execution"_
+Presented some of my work at [RelationalAI](http://relational.ai) on moving code from runtime to compile-time in julia. ([Youtube](https://www.youtube.com/watch?v=JCFej--XER0), [slides](https://github.com/NHDaly/juliaCon2019-If_Runtime_isn-t_Funtime-Slides)).
 <br>  <!-- Eww, these <br>s are needed to prevent the youtube iframes from overlapping -->
 <br>
 
@@ -35,7 +36,14 @@ politics—whatever it takes.
 <iframe width="200" height="110" src="https://www.youtube.com/embed/kSp6d3qSb3I" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
-<br>**JuliaCon 2018 presentation:** _"Building Julia Apps and So Can You!: Compiling and distributing desktop applications written in Julia"_ -- Presented my package, [ApplicationBuilder.jl](https://github.com/NHDaly/ApplicationBuilder.jl). ([Youtube](https://youtu.be/kSp6d3qSb3I?t=5m23s), [slides](https://github.com/NHDaly/juliaCon2018-ApplicationBuilder-Slides))
+### JuliaCon 2018: _"Building Julia Apps and So Can You!: Compiling and distributing desktop applications written in Julia"_
+Presented my package, [ApplicationBuilder.jl](https://github.com/NHDaly/ApplicationBuilder.jl). ([Youtube](https://youtu.be/kSp6d3qSb3I?t=5m23s), [slides](https://github.com/NHDaly/juliaCon2018-ApplicationBuilder-Slides))
+
+<br>
+### Bachelor’s Honors Thesis (Dec 2013)
+_"Dynamically Registering C++ Exception Handlers:
+Centralized Handling of C++ Exceptions in Application Framework Libraries"_
+([nathdaly-thesis.pdf](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/102769/nathdaly-thesis.pdf?sequence=4&isAllowed=y), [University of Michigan Thesis Archive](http://deepblue.lib.umich.edu/handle/2027.42/102769))
 
 
 
