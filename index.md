@@ -24,10 +24,18 @@ politics—whatever it takes.
 ## Publications
 
 <div style="float:right; padding:2px;">
-<iframe width="200" height="110" src="https://www.youtube.com/embed/kSp6d3qSb3I?start=323" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="200" height="110" src="https://www.youtube.com/embed/JCFej--XER0?start=181" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-<br>**Presented at JuliaCon 2018** about my package [ApplicationBuilder.jl](https://github.com/NHDaly/ApplicationBuilder.jl): _"Building Julia Apps and So Can You!: Compiling and distributing desktop applications written in Julia"_. ([Youtube link](https://youtu.be/kSp6d3qSb3I?t=5m23s))
+<br>**JuliaCon 2019 presentation:** _"If Runtime isn't Funtime: Controlling Compile-time Execution"_, reflecting some of my work at [RelationalAI](http://relational.ai). ([Youtube](https://www.youtube.com/watch?v=JCFej--XER0), [slides](https://github.com/NHDaly/juliaCon2019-If_Runtime_isn-t_Funtime-Slides)).
+<br>  <!-- Eww, these <br>s are needed to prevent the youtube iframes from overlapping -->
+<br>
+
+<div style="float:right; padding:2px;">
+<iframe width="200" height="110" src="https://www.youtube.com/embed/kSp6d3qSb3I" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
+<br>**JuliaCon 2018 presentation:** _"Building Julia Apps and So Can You!: Compiling and distributing desktop applications written in Julia"_ -- Presented my package, [ApplicationBuilder.jl](https://github.com/NHDaly/ApplicationBuilder.jl). ([Youtube](https://youtu.be/kSp6d3qSb3I?t=5m23s), [slides](https://github.com/NHDaly/juliaCon2018-ApplicationBuilder-Slides))
 
 
 
