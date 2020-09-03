@@ -14,7 +14,7 @@ data-driven computing at RelationalAI!
 A fun fact about me is: I'm [terrified](https://xkcd.com/1732/)
 [about](https://en.wikipedia.org/wiki/IPCC_Fifth_Assessment_Report#Projections)
 Climate Change. But I'm also [inspired](http://worrydream.com/ClimateChange) by
-[its challenge](http://tnp_encoded_videos.s3.amazonaws.com/web_videos/140927_FONG_FULL_WEB_9100.mp4).
+[its challenge](https://www.youtube.com/watch?v=MaebOLfdSd8).
 I like solving problems, and I'm good at it, and I want to apply that towards
 tackling the climate crisis: energy, the grid, transportation,
 politics—whatever it takes.
