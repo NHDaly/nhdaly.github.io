@@ -15,7 +15,11 @@ I live in Rhode Island, which is one of the worst impacted states for covid per 
 
 But then, we wondered, **is** it actually fair to explain away our bad case rate by our high population density?
 
-We found several articles arguing that in fact, no, there does not seem to be any correlation between cases per capita and population density. However, most of the articles we found so far were using countries as data points, and we were interested in US states. So this notebook explores the data from states, and indeed draws the same conclusions:
+We found several articles arguing that in fact, no, there does not seem to be any correlation between cases per capita and population density:
+- [https://www.scientificamerican.com/article/population-density-does-not-doom-cities-to-pandemic-dangers/](https://www.scientificamerican.com/article/population-density-does-not-doom-cities-to-pandemic-dangers/)
+- [https://ourworldindata.org/grapher/covid-19-death-rate-vs-population-density](https://ourworldindata.org/grapher/covid-19-death-rate-vs-population-density)
+
+However, most of the articles we found so far were using countries as data points, and we were interested in US states. So this notebook explores the data from states, and indeed draws the same conclusions:
 
 **There does not seem to be any correlation between population density and cases per capita.**
 
