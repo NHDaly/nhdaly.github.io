@@ -15,7 +15,7 @@ A fun fact about me is: I'm [terrified](https://xkcd.com/1732/)
 [about](https://en.wikipedia.org/wiki/IPCC_Fifth_Assessment_Report#Projections)
 Climate Change. But I'm also [inspired](http://worrydream.com/ClimateChange) by
 [its challenge](https://www.youtube.com/watch?v=MaebOLfdSd8).
-I like solving problems, and I'm good at it, and I want to apply that towards
+I like solving problems, and I want to apply that towards
 tackling the climate crisis: energy, the grid, transportation,
 politics—whatever it takes.
 
